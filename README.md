@@ -27,7 +27,7 @@ Notebook is a simple and convenient note-taking app. Quickly and easily write do
 No installation required. Just copy this link and open in browser:
 
 ```
-https://notebook.vercel.app   →   open in browser
+https://notebook-azizbek.vercel.app   →   open in browser
 ```
 
 ### File Structure
